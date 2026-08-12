@@ -1,0 +1,26 @@
+把这个页面挂到 GitHub Pages（免费，手机可打开）
+
+一、准备好的文件（已放在本文件夹）
+- index.html   （网页正文，必须叫这个名字）
+- README.md
+
+二、在 GitHub 网页上操作（不用装 Git）
+1. 打开 https://github.com/new
+2. Repository name 填：excel-h5-formulas
+3. 选 Public（公开）
+4. 不要勾选 Add a README
+5. 点 Create repository
+
+6. 创建后点 uploading an existing file
+   或：Code -> Add file -> Upload files
+7. 把本文件夹的 index.html、README.md 拖进去
+8. 点 Commit changes
+
+9. 打开仓库 Settings -> Pages
+10. Source 选 Deploy from a branch
+11. Branch 选 main（或 master），文件夹选 / (root)，Save
+
+12. 等 1-2 分钟，访问地址为：
+    https://你的用户名.github.io/excel-h5-formulas/
+
+三、手机用浏览器打开上面地址即可（不要求同一 WiFi）。
